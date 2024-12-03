@@ -1,0 +1,10 @@
+    :root {
+    
+        --colorredback: rgba(238, 229, 229, 0.671);
+        --colorredtext: rgb(17, 17, 17);
+        --colorblackback: rgb(189, 185, 185);
+        --colorblacktext: rgb(5, 5, 5);
+        --colorheader: rgb(209, 200, 199);
+        --btnborder: rgb(17, 17, 17);
+        }
+    
